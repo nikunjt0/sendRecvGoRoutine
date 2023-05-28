@@ -11,6 +11,7 @@ Send / Receive data using Kafka server via goroutines
 json data format:
 
 {
+    
     "datetime": <UTC datetime string>,
     "data" : <integer>
 
